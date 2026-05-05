@@ -43,4 +43,3 @@ or running with vscode
   - Gaussian Naive Bayes
   - SVM
 - Plots confusion matrices for each model
-````
