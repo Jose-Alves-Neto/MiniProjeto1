@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ````bash
 jupyter notebook
-```
+````
 or running with vscode
 
 ## What the notebook does
